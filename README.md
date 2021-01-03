@@ -1,15 +1,8 @@
 # Sound-Physics
 A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.
 
-Downloads are in the [releases tab](https://github.com/djpadbit/Sound-Physics/releases)
+This is a fork of djpadbit, which is a fork of daipenger, which is a fork of sonic ether.
 
-This is a fork of a fork! I forked it from daipenger who forked it from sonicether, daipenger ported it to 1.12.2 and cleaned up the codebase, i just added some stuff.
+I'm a noob, and im kinda just trying to use this (and other repos) to learn minecraft modding. Please dont hurt me.
 
-The stuff added in this fork:
-* Automatic stero to mono downmixing of sounds (So the original resourcepack is not needed anymore)
-* More compatibility with mods (Computronics & Immersive Railroading)
-* Server-side support (right position for entity and computronics sounds and higher distance before sound cutoff)
-
-Todo:
-* Rewrite Dynamic environement evaluation (feature removed for now)
-* More mod compatibility ? I'm open to suggestions
+There is no release build for this fork yet, and you probably dont want one.
