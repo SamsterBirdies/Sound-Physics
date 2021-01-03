@@ -5,7 +5,7 @@
   "description": "Provides realistic sound attenuation, reverberation, and absorption through blocks.",
   "version": "${version}",
   "mcversion": "${mc_version}",
-  "url": "https://github.com/djpadbit/Sound-Physics",
-  "authorList": ["Sonic Ether","daipenger","djpadbit"]
+  "url": "https://github.com/SamsterBirdies/Sound-Physics",
+  "authorList": ["Sonic Ether","daipenger","djpadbit","SamsterBirdies"]
 }
 ]
